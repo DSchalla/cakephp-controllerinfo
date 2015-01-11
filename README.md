@@ -16,6 +16,9 @@ bin/cake Schalla/ControllerInfo.Cache
 
 This will gather information about all Controller in your src/ and plugin directories.
 
+After that you can access the table Schalla/ControllerInfo.Data to receive Controller Information. Methods and
+Properties have to be unserialized before using the data.
+
 ## Installation
 
 ### Composer [NOT WORKING]
@@ -30,3 +33,7 @@ composer require schalla/cakephp-controllerinfo
 ### GitHub
 
 Download the ZIP, extract it in <PLUGINS>/Schalla/ControllerInfo and update your Autoloader.
+
+## Features & Bugs
+
+Please report Bugs and Feature requests using GitHub Issues or drop me a message in the CakePHP IRC on Freenode.
