@@ -1,6 +1,6 @@
 <?php
 
-namespace Schalla\ControllerInfo\Shell\Task;
+namespace ControllerInfo\Shell\Task;
 
 use Cake\Cache\Cache;
 use Cake\Console\Shell;

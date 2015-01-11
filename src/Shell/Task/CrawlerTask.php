@@ -1,5 +1,5 @@
 <?php
-namespace Schalla\ControllerInfo\Shell\Task;
+namespace ControllerInfo\Shell\Task;
 
 use Cake\Console\Shell;
 use Cake\Core\Configure;

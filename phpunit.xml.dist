@@ -13,7 +13,7 @@
 
     <!-- Add any additional test suites you want to run here -->
     <testsuites>
-        <testsuite name="Schalla/ControllerInfo Test Suite">
+        <testsuite name="ControllerInfo Test Suite">
             <directory>./tests/TestCase</directory>
         </testsuite>
     </testsuites>

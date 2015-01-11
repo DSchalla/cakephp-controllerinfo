@@ -1,18 +1,18 @@
 <?php
 
-namespace Schalla\ControllerInfo\Shell;
+namespace ControllerInfo\Shell;
 
 use Cake\Console\Shell;
 
 class CacheShell extends Shell
 {
 
-    public $tasks=['Schalla/ControllerInfo.Crawler', 'Schalla/ControllerInfo.Reflection'];
+    public $tasks=['ControllerInfo.Crawler', 'ControllerInfo.Reflection'];
 
     public function initialize()
     {
         parent::initialize();
-        $this->loadModel('Schalla/ControllerInfo.Data');
+        $this->loadModel('ControllerInfo.Data');
     }
 
     public function main()

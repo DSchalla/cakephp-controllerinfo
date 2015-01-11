@@ -5,7 +5,7 @@
  * @link          https://www.schalla.me
  */
 
-namespace Schalla\ControllerInfo\Model\Entity;
+namespace ControllerInfo\Model\Entity;
 
 use Cake\ORM\Entity;
 

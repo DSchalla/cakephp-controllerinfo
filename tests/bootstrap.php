@@ -1,6 +1,6 @@
 <?php
 /**
- * Test suite bootstrap for Schalla/ControllerInfo.
+ * Test suite bootstrap for ControllerInfo.
  *
  * This function is used to find the location of CakePHP whether CakePHP
  * has been installed as a dependency of the plugin, or the plugin is itself

@@ -1,10 +1,10 @@
 <?php
 
-namespace Schalla\ControllerInfo\Model\Table;
+namespace ControllerInfo\Model\Table;
 
 use Cake\ORM\Table;
 use Cake\Event\Event;
-use Schalla\ControllerInfo\Model\Entity\Data;
+use ControllerInfo\Model\Entity\Data;
 
 class DataTable extends Table
 {

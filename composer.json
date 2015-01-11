@@ -1,6 +1,6 @@
 {
     "name": "Schalla/ControllerInfo",
-    "description": "Schalla/ControllerInfo plugin for CakePHP",
+    "description": "ControllerInfo plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
         "php": ">=5.4",
@@ -12,12 +12,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Schalla\\ControllerInfo\\": "src"
+            "ControllerInfo\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Schalla\\ControllerInfo\\Test\\": "tests",
+            "ControllerInfo\\Test\\": "tests",
             "Cake\\Test\\": "./vendor/cakephp/cakephp/tests"
         }
     }

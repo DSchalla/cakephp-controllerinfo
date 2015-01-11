@@ -12,11 +12,11 @@ Provides information for every Controller like:
 
 Install the Plugin as Regular and then call:
 
-bin/cake Schalla/ControllerInfo.Cache
+bin/cake ControllerInfo.Cache
 
 This will gather information about all Controller in your src/ and plugin directories.
 
-After that you can access the table Schalla/ControllerInfo.Data to receive Controller Information. Methods and
+After that you can access the table ControllerInfo.Data to receive Controller Information. Methods and
 Properties have to be unserialized before using the data.
 
 ## Installation
@@ -32,7 +32,7 @@ composer require schalla/cakephp-controllerinfo
 
 ### GitHub
 
-Download the ZIP, extract it in <PLUGINS>/Schalla/ControllerInfo and update your Autoloader.
+Download the ZIP, extract it in <PLUGINS>/ControllerInfo and update your Autoloader.
 
 ## Features & Bugs
 
