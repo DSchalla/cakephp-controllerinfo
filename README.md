@@ -1,5 +1,11 @@
 # Schalla/ControllerInfo plugin for CakePHP
 
+## Usage
+
+Install the Plugin as Regular and then call:
+
+bin/cake Schalla/ControllerInfo.Cache
+
 ## Installation
 
 You can install this plugin into your CakePHP application using [composer](http://getcomposer.org).
